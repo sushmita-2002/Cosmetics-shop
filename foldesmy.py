@@ -19,8 +19,8 @@ def insert():
 
 def view():
    print("Select the search criteria : ")
-   print("1. Customer ID  ")
-   print("2. Customer Name")
+   print("1. Cosmetic ID  ")
+   print("2. Cosmetic Name")
    print("3. All")
    ch=int(input("Enter the choice : "))
    if ch==1:
