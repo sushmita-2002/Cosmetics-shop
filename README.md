@@ -2,7 +2,7 @@
 It is a database management system that is developed with python and MySQL.
 In this project I connected python and MySQL using module mysql.connector.
 
-## Goel
+## Goal
 With this project, I aiming to create a database management system for cosmetic shop.It helps to keep the record of data of cosmetic shop.
 
 ## Functonalities
